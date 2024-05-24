@@ -18,7 +18,7 @@ The Weather App is a React-based web application that allows users to fetch and 
 # Install Dependencies:
 - For the React app: npm install
 - For the proxy server: npm install express axios cors
-- Run the Proxy Server: node server.js (in the weather-proxy directory)
-- Start the React App: npm start (in the root project directory)
+- Run the Server: node server.js 
+- Run the Client: npm start 
 - Enter a City: Use the input field to enter a city name and fetch the weather data.
 - This application demonstrates how to integrate third-party APIs in a React application and handle CORS issues using a proxy server.
